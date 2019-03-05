@@ -2,6 +2,6 @@
 
 class saviynt {
  public static void main(String args[]){
-     System.out.println("Program to test chjvkjbjbfor post call");
+     System.out.println("Program to test for post call");
  }
 }
